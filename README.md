@@ -1,5 +1,2 @@
-Hello Git
+booya 
 
-Hello World!
-
-Madam Rose
